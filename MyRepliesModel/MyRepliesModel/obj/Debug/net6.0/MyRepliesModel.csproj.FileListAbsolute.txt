@@ -1,0 +1,8 @@
+C:\Users\lab_services_student\source\repos\MyRepliesModel\MyRepliesModel\obj\Debug\net6.0\MyRepliesModel.csproj.AssemblyReference.cache
+C:\Users\lab_services_student\source\repos\MyRepliesModel\MyRepliesModel\obj\Debug\net6.0\MyRepliesModel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lab_services_student\source\repos\MyRepliesModel\MyRepliesModel\obj\Debug\net6.0\MyRepliesModel.AssemblyInfoInputs.cache
+C:\Users\lab_services_student\source\repos\MyRepliesModel\MyRepliesModel\obj\Debug\net6.0\MyRepliesModel.AssemblyInfo.cs
+C:\Users\lab_services_student\source\repos\MyRepliesModel\MyRepliesModel\obj\Debug\net6.0\MyRepliesModel.csproj.CoreCompileInputs.cache
+C:\Users\lab_services_student\source\repos\MyRepliesModel\MyRepliesModel\obj\Debug\net6.0\MyRepliesModel.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\lab_services_student\source\repos\MyRepliesModel\MyRepliesModel\obj\Debug\net6.0\MyRepliesModel.RazorAssemblyInfo.cache
+C:\Users\lab_services_student\source\repos\MyRepliesModel\MyRepliesModel\obj\Debug\net6.0\MyRepliesModel.RazorAssemblyInfo.cs
